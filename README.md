@@ -15,6 +15,7 @@ To access Admin and Customer Representative functionalities use the following cr
 Admin
 username: henrut
 password: hr123
+
 Customer Representative
 username: sonnywerb
 password: sw123
