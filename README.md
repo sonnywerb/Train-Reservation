@@ -11,11 +11,9 @@ Video Demo Link (Youtube):
 https://www.youtube.com/watch?v=cRkNimLWkcM&feature=youtu.be
 
 To access Admin and Customer Representative functionalities use the following credentials:
-
 Admin
 username: henrut
 password: hr123
-
 Customer Representative
 username: sonnywerb
 password: sw123
